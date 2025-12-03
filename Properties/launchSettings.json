@@ -1,0 +1,14 @@
+﻿{
+  "profiles": {
+    "ConsoleApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "API_SERVICE_URL": "https://localhost:6200",
+        "BrokerType": "redis",
+        "CLIENT_VERSION": "1.0.0",
+        "GAME_VERSION": "1.1.2"
+      }
+    }
+  }
+}
